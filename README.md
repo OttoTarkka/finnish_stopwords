@@ -21,5 +21,5 @@ def remove_stopwords(data):
 data = [['tämä', 'olla', 'esimerkki#lause', ',', 'joka', 'mahtua', 'paljon', 'sana', '.'], ['tässä', 'olla', 'toinen', 'lause', '!']]
 data = remove_stopwords(data)
 
-#returns [['esimerkki#lause', 'mahtua', 'paljon', 'sana'], ['tässä', 'toinen', 'lause']]
+#returns [['esimerkki#lause', ',' 'mahtua', 'paljon', 'sana', '.'], ['tässä', 'toinen', 'lause', '!']]
 ```
