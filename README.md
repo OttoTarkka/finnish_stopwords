@@ -1,5 +1,5 @@
 # finnish_stopwords
-Basic list of Finnish stopwords for your NLP/corpus linguistics project.
+Basic list of Finnish stopwords for your NLP/corpus linguistics project. The `txt` and `json` version are identical. You whichever fits you.
 
 I couldn't find a decent list of Finnish stopwords online, so I made my own. Feel free to use this list in your projects.
 The list mainly includes Finnish pronouns and frequent adverbs. Some frequent verbs are included, too.
